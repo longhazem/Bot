@@ -42,4 +42,4 @@ async def hello(interaction: nextcord.Interaction):
 # Run bot
 # ----------------------------
 keep_alive()  # bật web giữ online
-client.run(os.getenv("TOKEN"))  # TOKEN để trong biến môi trường Render
+client.run(os.getenv("MTQxOTIzNzg4MTkzMDU4NDEwNg.Gqwd-g.cvNxHIE1sJpIerdrML6pyGGOFND-zUxeoG-CzQ"))  # TOKEN để trong biến môi trường Render
